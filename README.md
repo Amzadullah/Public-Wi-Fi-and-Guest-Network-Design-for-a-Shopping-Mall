@@ -171,14 +171,3 @@ Possible future improvements include:
 ## 📜 License
 
 This project was created for academic and educational purposes.
-
-```
-
-### github/amzadullah
-
-
-**`public-wifi-mall-network`**
-
-
-> Cisco Packet Tracer project designing a secure and scalable public Wi-Fi and guest network for a shopping mall.
-
